@@ -1,0 +1,24 @@
+html,body{
+    font-family: 'Titillium Web', sans-serif;
+}
+.card{
+    margin-top: 20px !important;
+}
+.card-header{
+    background: #337ab7;
+    color: #fff;
+}
+.navbar-light{
+    background: #337ab7 !important;
+    color: #fff !important;
+}
+.nav-link{
+    color: #fff !important;
+}
+.navbar-brand{
+    color: #fff !important;
+}
+.navbar-light .btn-primary{
+    background: #fff;
+    color: black
+}
